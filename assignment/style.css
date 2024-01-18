@@ -3,11 +3,12 @@ header{
     background-color: black;
 }
 h3{
-    background-color: black;text-align: center;
+    background-color: black;
+    text-align: center;
 }
 /* Add a fun background color to the main element */
 main{
-    background-color: blanchedalmond;
+    background-color: rgb(58, 26, 79);
 }
 /* Align the h1 containing your name in the center of the header*/
 h1{
@@ -15,23 +16,28 @@ h1{
 }
 /* Make your p tag a different color and italic */
 p{
-    color: dimgrey;font-style: italic;font-size: 25px; text-align: center;
+    color: dimgrey;
+    font-style: italic;
+    font-size: 25px; 
+    text-align: center;
 }
 /* Put a border around your image */
 img{
-    border: solid 10px;border-color: black;
+    border: solid 10px;
+    border-color: black;
 }
 div{
     text-align: center;
 }
 /* Change the font-family of your list */
 ul{
-    font-family: fantasy;color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(94, 90, 198);
 }
 li{
     font-size: 17px;
 }
 /* Add a background color to the footer element */
 footer{
-    background-color:lightsalmon;
+    background-color:rgb(0, 0, 0);
 }
